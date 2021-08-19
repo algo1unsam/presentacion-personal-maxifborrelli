@@ -2,9 +2,11 @@
 
 ## Estudiante: Maximiliano Borrelli
 
-### Ay no sé que poner pero cuenta como descripción creo
+### LEGAJO : CYT-9622
 
-Soy Maximiliano Borrelli, tengo 23 años y estudio la carrera de TPI.
+### Soy Maximiliano Borrelli
+
+Tengo 23 años y estudio la carrera de TPI.
 
 Actualmente estoy trabajando en una fintech en el área de tecnología como QA Engineer.
 
